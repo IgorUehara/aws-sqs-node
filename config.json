@@ -1,5 +1,5 @@
 {
-  "accessKeyId": "AKIAJU5VI2GTDGPHGPLA",
-  "secretAccessKey": "ki9vTwHRnezVS48uPkaZOH8zbuyQXiOtR8JAyq69",
-  "region": "sa-east-1"
+  "accessKeyId": "YOUR_KEY",
+  "secretAccessKey": "YOUR_SECRET_ID",
+  "region": "YOUR_REGION"
 }
